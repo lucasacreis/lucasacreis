@@ -8,7 +8,10 @@
 
 Responsável pela definição de arquitetura eletrônica e desenvolvimento de software para controle de motores de rastreio de antenas, com foco em operações de estações terrenas e integração com sistemas de rastreamento orbital.
 
-## Competencias
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-reis-aerospace-engineer/)
+
+## Competências
 
 ### Engenharia
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
